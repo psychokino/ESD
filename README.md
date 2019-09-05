@@ -1,3 +1,3 @@
 # ESD
-widget.cpp is the main edit sector \n
-included by final.cpp while executing
+<widget.cpp is the main edit sector> 
+<included by final.cpp while executing>
